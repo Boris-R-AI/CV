@@ -1,4 +1,5 @@
 Задание 1: https://docs.google.com/document/d/1ep74C3mW8OtModhP5RY3l9NwLwQ9MQpN
+
 Решение: https://docs.google.com/document/d/1WXmbkSb78xV9g9CxN2B4ASE7foITBHDpc0ptrbasNQk
 
 Задание 2: https://docs.google.com/document/d/1ShMwaBESm9FUi5kDBlDkU0woeFW1gWz_
